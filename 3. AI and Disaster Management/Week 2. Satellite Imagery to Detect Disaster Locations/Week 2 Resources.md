@@ -1,0 +1,3 @@
+# Week 2 Resources
+
+[Aerial Damage Assessment Following Hurricane Sandy](https://www.giscorps.org/sandy_109/): an after-action report for information processing following Hurricane Sandy. The authors, including Dr. Robert Munro, analyze the aerial damage assessment process in a number of ways, reporting the results and suggesting methods to ensure quality and reliability for similar responses to future events.
